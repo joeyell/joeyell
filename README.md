@@ -10,7 +10,7 @@ Age := 27
 <br>
 <summary>Connect with me</summary>
 
-I'm not on any social media but feel free to connect with me on LinkedIn. <br>
+I'm not on any social media but feel free to connect with me on LinkedIn! <br>
 
 <a href="https://www.linkedin.com/in/joe-yelland/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
