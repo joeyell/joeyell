@@ -24,9 +24,15 @@ I'm not on any social media but feel free to connect with me on LinkedIn! <br>
 
 ##### Languages
 
+<a href="https://go.dev/doc/" target="_blank">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang" />
+</a>
+<a href="https://docs.oracle.com/en/java/" target="_blank">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+</a>
+<a href="https://docs.python.org/3/" target="_blank">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+</a>
 
 ##### Databases
 
