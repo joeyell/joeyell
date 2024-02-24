@@ -111,7 +111,7 @@ I'm still fairly new to uploading my work to GitHub, but there will be much more
 
 <img src="https://upload.wikimedia.org/wikipedia/en/3/37/WH40K_logo_2020.png" height="32" />
 
-<img src="https://cdn-icons-png.flaticon.com/512/1974/1974052.png" height="32" />
+<img src="https://cdn-icons-png.flaticon.com/512/1974/1974052.png" height="64" />
 
 
 </details>
