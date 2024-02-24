@@ -105,7 +105,7 @@ I'm still fairly new to uploading my work to GitHub, but there will be much more
 
 <details>
 <br>
-<summary><b>Spotify - check out what I'm listening to</b></summary>
+<summary><b>Hobbieso</b></summary>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Magicthegathering-logo.svg" height="64" width="64" />
 
