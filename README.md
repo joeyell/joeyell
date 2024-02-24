@@ -1,12 +1,65 @@
-- 👋 Hi, I’m @joeyell
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hey everyone!
 
-<!---
-joeyell/joeyell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+Name := "Joe"
+Country: = "London"
+Age := 27
+```
+
+<details>
+<br>
+<summary>Connect with me</summary>
+
+I'm not on any social media but feel free to connect with me on LinkedIn. <br>
+
+<a href="https://www.linkedin.com/in/joe-yelland/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</details>
+
+<details>
+
+<summary>Tools I'm learning</summary>
+
+##### Languages
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+
+##### Databases
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="psql" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" />
+
+##### Code Editior
+
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
+
+</details>
+
+<details>
+<br>
+<summary>GitHub Stats</summary>
+
+I'm still fairly new to uploading my work to GitHub, but there will be much more to come! 
+
+![Visits Badge](https://badges.pufler.dev/visits/joeyell/joeyell)
+
+<p><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" justify="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoeYell&show_icons=true&hide=[%22issues%22]"/></a>
+</p>
+
+</details>
+
+<details>
+<br>
+<summary>Spotify - check out what I'm listening to</summary>
+
+
+<a href="https://open.spotify.com/user/wp14oj2igr9y23a5k6omapk53?si=954cb73f0fd44098"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wp14oj2igr9y23a5k6omapk53&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=wp14oj2igr9y23a5k6omapk53&redirect=true)
+
+</details>
