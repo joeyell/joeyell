@@ -16,7 +16,6 @@ func main() {
 
   fmt.Println(gitHubUser)
 }
-
 ```
 
 <details>
