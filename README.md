@@ -38,7 +38,7 @@ I'm not on any social media but feel free to connect with me on LinkedIn! <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="64" width="64" />
 
 
-<i class="devicon-mariadb-original-wordmark" height="64" width="64" ></i>
+<i class="devicon-mariadb-original-wordmark" style="font-size: 64px;" ></i>
           
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" height="64" width="64" />
