@@ -58,6 +58,17 @@ I'm not on any social media but feel free to connect with me on LinkedIn! <br>
 </details>
 
 <details>
+
+<summary><b>Tools I want to learn</b></summary>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" height="64" width="64" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="64" width="64" />
+
+</details>
+
+
+<details>
 <br>
 <summary><b>GitHub Stats</b></summary>
 
