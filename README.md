@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/joeyell/joeyell/assets/156302872/34475cfc-7e36-4513-960a-30adee0fba72)<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hello%20👋&fontColor=FAF9F6"/>
 </p>
 
@@ -115,7 +115,6 @@ I'm still fairly new to uploading my work to GitHub, but there will be much more
 
 <img src="https://cdn-icons-png.flaticon.com/512/6170/6170601.png" height="54" style="margin-right: 100px;"/>
 
-
-
+<img src="https://cdn-icons-png.flaticon.com/512/1841/1841630.png" height="54" style="margin-right: 100px;"/>
 
 </details>
