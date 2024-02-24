@@ -107,11 +107,15 @@ I'm still fairly new to uploading my work to GitHub, but there will be much more
 <br>
 <summary><b>Hobbies</b></summary>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Magicthegathering-logo.svg" height="32" style="margin-right: 10px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Magicthegathering-logo.svg" height="32" style="margin-right: 20px;"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/en/3/37/WH40K_logo_2020.png" height="32" style="margin-right: 10px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/3/37/WH40K_logo_2020.png" height="32" style="margin-right: 20px;"/>
 
-<img src="https://cdn-icons-png.flaticon.com/512/1974/1974052.png" height="54" style="margin-right: 10px;"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1974/1974052.png" height="54" style="margin-right: 20px;"/>
+
+<img src="https://cdn-icons-png.flaticon.com/512/6170/6170601.png" height="54" style="margin-right: 20px;"/>
+
+
 
 
 </details>
