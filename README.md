@@ -15,7 +15,8 @@ Age := 27
 I'm not on any social media but feel free to connect with me on LinkedIn! <br>
 
 <a href="https://www.linkedin.com/in/joe-yelland/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="64" width="64" />
+         
 </a>
 
 </details>
