@@ -26,7 +26,7 @@ I'm not on any social media but feel free to connect with me on LinkedIn! <br>
 
 ##### Languages
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/" alt="golang" target="_blank"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" target="_blank"/>
 
