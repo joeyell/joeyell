@@ -8,7 +8,7 @@ Age := 27
 
 <details>
 <br>
-<summary>Connect with me</summary>
+<summary><b>Connect with me</b></summary>
 
 I'm not on any social media but feel free to connect with me on LinkedIn! <br>
 
@@ -20,7 +20,7 @@ I'm not on any social media but feel free to connect with me on LinkedIn! <br>
 
 <details>
 
-<summary>Tools I'm learning</summary>
+<summary><b>Tools I'm learning</b></summary>
 
 ##### Languages
 
@@ -41,7 +41,7 @@ I'm not on any social media but feel free to connect with me on LinkedIn! <br>
 
 <details>
 <br>
-<summary>GitHub Stats</summary>
+<summary><b>GitHub Stats</b></summary>
 
 I'm still fairly new to uploading my work to GitHub, but there will be much more to come! 
 
@@ -55,7 +55,7 @@ I'm still fairly new to uploading my work to GitHub, but there will be much more
 
 <details>
 <br>
-<summary>Spotify - check out what I'm listening to</summary>
+<summary><b>Spotify - check out what I'm listening to</b></summary>
 
 
 <a href="https://open.spotify.com/user/wp14oj2igr9y23a5k6omapk53?si=954cb73f0fd44098"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
