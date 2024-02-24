@@ -1,4 +1,4 @@
-Hey everyone!
+Hey everyone! 👋
 
 ```
 Name := "Joe"
