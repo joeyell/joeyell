@@ -1,5 +1,4 @@
-![image](https://github.com/joeyell/joeyell/assets/156302872/34475cfc-7e36-4513-960a-30adee0fba72)<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hello%20👋&fontColor=FAF9F6"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hello%20👋&fontColor=FAF9F6"/>
 </p>
 
 ```go
