@@ -3,9 +3,20 @@
 </p>
 
 ```
-Name := "Joe"
-Country: = "London"
-Age := 27
+type person struct {
+  name, city, age string
+}
+
+func main() {
+  var gitHubUser person
+
+  gitHubUser.name = "Joe"
+  gitHubUser.city = "London"
+  gitHubUser.age = "27"
+
+  fmt.Println(gitHubUser)
+}
+
 ```
 
 <details>
