@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hello%20👋&fontColor=FAF9F6"/>
 </p>
 
-```
+```go
 type person struct {
   name, city, age string
 }
