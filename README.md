@@ -36,13 +36,27 @@ I'm not on any social media but feel free to connect with me on LinkedIn! <br>
 ##### Databases
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="64" width="64" />
+
+
+<i class="devicon-mariadb-original-wordmark" height="64" width="64" ></i>
+          
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" height="64" width="64" />
+
+##### Cloud
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="64" width="64" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="64" width="64" />
+          
           
 
-##### Code Editior
+##### Other
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="64" width="64" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="64" width="64" />
+          
           
 </details>
 
