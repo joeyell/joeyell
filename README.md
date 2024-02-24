@@ -102,3 +102,11 @@ I'm still fairly new to uploading my work to GitHub, but there will be much more
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wp14oj2igr9y23a5k6omapk53&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=wp14oj2igr9y23a5k6omapk53&redirect=true)
 
 </details>
+
+<details>
+<br>
+<summary><b>Spotify - check out what I'm listening to</b></summary>
+
+<img src="https://commons.wikimedia.org/wiki/File:Magicthegathering-logo.svg#/media/File:Magicthegathering-logo.svg" height="64" width="64" />
+
+</details>
