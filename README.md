@@ -88,8 +88,6 @@ I'm still fairly new to uploading my work to GitHub, but there will be much more
 
 <a href="https://open.spotify.com/user/wp14oj2igr9y23a5k6omapk53?si=954cb73f0fd44098"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wp14oj2igr9y23a5k6omapk53&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=wp14oj2igr9y23a5k6omapk53&redirect=true)
-
 </details>
 
 <details>
